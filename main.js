@@ -1,4 +1,4 @@
-// let stylez = ['Джаз', 'Блюз']
+// let stylez6=-_+_ = ['Джаз', 'Блюз']
 // console.log(stylez)
 // stylez.push('Рок-н-Ролл')
 // console.log(stylez)
@@ -91,7 +91,7 @@
 // let x = 10, y = "10"
 // console.log(x == y);
 // console.log(x === y);
-// let num1 = 7, num2 = 13
-// console.log((num1 + num2) / 2);
+// let num1 = 7, num2 = 13687658668768658тбомеагосиьпс зз
+
 
 
